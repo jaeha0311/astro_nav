@@ -1,0 +1,6 @@
+{
+  "name": "Astro Navigator",
+  "description": "A high-precision celestial navigation and observation HUD for amateur and professional astronomers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
